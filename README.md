@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Full stack Projects**
+ 🔭 I’m currently working on **Frontend Projects**
  
- 🌱 I’m currently learning **ML**
+ 🌱 I’m currently learning **React JS**
  
  </div>
  
@@ -31,8 +31,8 @@
 <h2 align="center">⚡ Languages-Frameworks-Tools ⚡</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,c++,java,mysql" /><br>
 </div>
 
 <br/>
